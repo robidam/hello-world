@@ -1,2 +1,3 @@
 # hello-world
-this is just for learning to use this site
+Hi humans!
+The earth is flat and the moonlanding was fake.
